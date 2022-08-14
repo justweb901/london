@@ -13,7 +13,7 @@ Content
 
 Changes / Bugs 
 1) Add Favicon 
-2) Fix London for mobile device (media queries)
+2) Fix London for mobile device (media queries) on Home page
 
 Deployed with Netlify 
 Live Link: https://london-travels.netlify.app/
